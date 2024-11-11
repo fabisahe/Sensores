@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.ajsv.sensors">
+    package="com.fdsh.sensors">
 
     <uses-feature
         android:name="android.hardware.telephony"
